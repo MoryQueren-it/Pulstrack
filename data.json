@@ -1,0 +1,127 @@
+{
+    "habits": [
+        {
+            "id": "sport",
+            "name": "Sport & Mouvement",
+            "icon": "fi-rr-gym",
+            "target": 5
+        },
+        {
+            "id": "lecture",
+            "name": "Lecture (30 min)",
+            "icon": "fi-rr-book-open-cover",
+            "target": 7
+        },
+        {
+            "id": "hydratation",
+            "name": "Hydratation (2L)",
+            "icon": "fi-rr-glass-water",
+            "target": 7
+        },
+        {
+            "id": "sommeil",
+            "name": "Sommeil (7h30+)",
+            "icon": "fi-rr-moon-stars",
+            "target": 6
+        },
+        {
+            "id": "projets",
+            "name": "Projets Persos",
+            "icon": "fi-rr-laptop-code",
+            "target": 5
+        },
+        {
+            "id": "programmer_5912",
+            "name": "Programmer",
+            "icon": "fi-rr-laptop-code",
+            "target": 7
+        }
+    ],
+    "logs": {
+        "2026-11-20": [
+            "sport",
+            "hydratation",
+            "sommeil",
+            "lecture",
+            "projets"
+        ],
+        "2026-11-19": [
+            "sport",
+            "hydratation",
+            "sommeil",
+            "lecture",
+            "projets"
+        ],
+        "2026-11-18": [
+            "sport",
+            "hydratation",
+            "sommeil"
+        ],
+        "2026-11-17": [
+            "sport",
+            "hydratation",
+            "sommeil",
+            "lecture",
+            "projets"
+        ],
+        "2026-11-16": [
+            "lecture",
+            "projets"
+        ],
+        "2026-11-15": [
+            "sport",
+            "hydratation",
+            "sommeil"
+        ],
+        "2026-11-14": [
+            "lecture",
+            "projets"
+        ],
+        "2026-11-13": [
+            "sport",
+            "hydratation",
+            "sommeil",
+            "lecture",
+            "projets"
+        ],
+        "2026-11-12": [],
+        "2026-11-11": [
+            "sport",
+            "hydratation",
+            "sommeil",
+            "lecture",
+            "projets"
+        ],
+        "2026-11-10": [
+            "lecture",
+            "projets"
+        ],
+        "2026-11-09": [
+            "sport",
+            "hydratation",
+            "sommeil"
+        ],
+        "2026-11-08": [
+            "lecture",
+            "projets"
+        ],
+        "2026-11-07": [
+            "sport",
+            "hydratation",
+            "sommeil",
+            "lecture",
+            "projets"
+        ],
+        "2026-11-21": [
+            "sport",
+            "lecture",
+            "hydratation",
+            "sommeil"
+        ],
+        "2026-11-22": [
+            "sommeil",
+            "projets",
+            "hydratation"
+        ]
+    }
+}
